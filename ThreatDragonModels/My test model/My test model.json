@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "My test model",
+    "owner": "Marian Horban",
+    "description": "This is just a test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
